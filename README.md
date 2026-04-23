@@ -5,7 +5,7 @@
 
 ---
 
-## 📋 Overview
+##  Overview
 
 This project implements and compares multiple machine learning and deep learning models for **Urdu Hate Speech Detection**. The task is a text classification problem where the goal is to classify Urdu text into different categories: **hate**, **offensive**, and **normal** (or binary: hate vs. not-hate).
 
@@ -13,7 +13,7 @@ The project demonstrates a comprehensive NLP pipeline including data preprocessi
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 1. Preprocess Urdu text with language-specific normalization
 2. Implement and train traditional ML models:
@@ -28,7 +28,7 @@ The project demonstrates a comprehensive NLP pipeline including data preprocessi
 
 ---
 
-## 🛠️ Models Implemented
+## Models Implemented
 
 | Model | Type | Classification | Features |
 |-------|------|---|---|
@@ -42,7 +42,7 @@ The project demonstrates a comprehensive NLP pipeline including data preprocessi
 
 ---
 
-## 📊 Dataset Characteristics
+## Dataset Characteristics
 
 - **Language:** Urdu
 - **Classes:** 3 (hate, offensive, normal)
@@ -52,7 +52,7 @@ The project demonstrates a comprehensive NLP pipeline including data preprocessi
 
 ---
 
-## 🔄 Pipeline Overview
+## Pipeline Overview
 
 ### 1. **Installation & Dependencies**
 ```python
@@ -98,7 +98,7 @@ matplotlib, seaborn, tensorflow
 
 ---
 
-## 📈 Evaluation Metrics
+## Evaluation Metrics
 
 Each model is evaluated using:
 
@@ -110,7 +110,7 @@ Each model is evaluated using:
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ### Prerequisites
 ```bash
@@ -128,7 +128,7 @@ pip install numpy pandas scikit-learn imbalanced-learn matplotlib seaborn tensor
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 NLPAssignment03/
@@ -141,7 +141,7 @@ NLPAssignment03/
 
 ---
 
-## 🎓 Key Learnings
+## Key Learnings
 
 1. **Urdu Text Preprocessing:** Handling Urdu script normalization, diacritics, and character mappings
 2. **Feature Engineering:** Combining word and character-level n-grams for better representation
@@ -151,7 +151,7 @@ NLPAssignment03/
 
 ---
 
-## 📝 Notes
+## Notes
 
 - **Random Seed:** 42 (for reproducibility)
 - **Class Weights:** Balanced weights applied to handle class imbalance
@@ -160,7 +160,7 @@ NLPAssignment03/
 
 ---
 
-## 📚 References
+## References
 
 - TensorFlow/Keras Documentation
 - Scikit-learn Library
@@ -169,7 +169,7 @@ NLPAssignment03/
 
 ---
 
-## 📧 Contact
+## Contact
 
 For questions or suggestions about this project, please reach out to the author.
 
