@@ -1,8 +1,6 @@
-# Urdu Hate Speech Detection — NLP Assignment 3
+# Urdu Hate Speech Detection
 
 **Author:** Hania Khan  
-**Roll Number:** BS-23-IB-103973
-
 ---
 
 ##  Overview
